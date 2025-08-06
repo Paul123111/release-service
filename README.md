@@ -68,3 +68,5 @@ by default, this operator exports the following custom metrics:
 | release_pre_processing_duration_seconds          | Histogram | How long in seconds a Release takes to start processing             |
 | release_validation_duration_seconds              | Histogram | How long in seconds a Release takes to validate                     |
 | release_total                                    | Counter   | Total number of releases reconciled by the operator.                |
+
+test change
