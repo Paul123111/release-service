@@ -70,3 +70,4 @@ by default, this operator exports the following custom metrics:
 | release_total                                    | Counter   | Total number of releases reconciled by the operator.                |
 
 test change
+not breaking change
